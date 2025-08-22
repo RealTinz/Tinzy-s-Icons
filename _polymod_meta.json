@@ -1,9 +1,9 @@
 {
-    "title": "Tower's Icons",
+    "title": "Tinzy's Icons",
     "description": "New icons to replace the icky old ones.",
     "contributors": [
         {
-      "name": "Tower",
+      "name": "Icons",
     "role": "Main Artist",
     "url": "https://x.com/Tower1240"
   }
@@ -11,3 +11,4 @@
     "api_version": "0.7.3",
     "mod_version": "1.0.0"
 }
+
