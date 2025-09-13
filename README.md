@@ -1,4 +1,4 @@
-put the folder "[V-slice] Tinzy's Icons" in the "mods" folder. 
+put the folder "[V-slice] Tinzy's Icons" in the "mods" folder. (make sure its not the zip file) 
 it theres no "mods" folder,make it urself
 if it wont let u put it delete the mods folder then make
 ur own folder titled "mods"
